@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "86a7fb6c-c8a0-493d-8203-39fc551120fc",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:882831179918:environment/sample-vpc-environment-template",
+    "templateArn" : "arn:aws:proton:us-east-1:882831179918:environment-template/sample-vpc-environment-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
